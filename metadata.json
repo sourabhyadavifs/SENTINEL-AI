@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI",
+  "description": "India's AI-Powered Digital Public Safety Intelligence Platform for proactive cyber fraud detection, deepfake analytics, and citizen safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
